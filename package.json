@@ -1,0 +1,29 @@
+{
+  "name": "hyperblog",
+  "version": "1.0.0",
+  "description": "Project for practice git, github and deployment of application",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "start:watch": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zearkiatos/hyperblog.git"
+  },
+  "author": "Pedro Capriles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zearkiatos/hyperblog/issues"
+  },
+  "homepage": "https://github.com/zearkiatos/hyperblog#readme",
+  "nodemonConfig": {
+    "ext":"js,html,css,json"
+  },
+  "dependencies": {
+    "express": "4.17.1",
+    "morgan": "^1.10.0",
+    "nodemon": "2.0.4"
+  }
+}
