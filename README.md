@@ -6,3 +6,4 @@ A HTML exam for improvent knowledge in git and github
 * Everything about Git command.
 * Work flow in GitHub.
 * The true love of good practices.
+* Creado by Dinogeek.
