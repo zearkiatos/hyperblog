@@ -7,3 +7,4 @@ A HTML exam for improvent knowledge in git and github
 * Work flow in GitHub.
 * The true love of good practices.
 * Creado by Dinogeek.
+* Include examples in Windows, Linux and Mac OS.
