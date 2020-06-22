@@ -8,3 +8,4 @@ A HTML exam for improvent knowledge in git and github
 * The true love of good practices.
 * Creado by Dinogeek.
 * Include examples in Windows, Linux and Mac OS.
+* Dispose to all years
